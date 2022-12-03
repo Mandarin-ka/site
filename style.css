@@ -503,5 +503,12 @@ a{
      .personal-information{
         margin: 0;
     }
+    
+    
+    .info{
+        max-width: 300px;
+        min-width: 300px;
+        width: 300px;
+    }\
 
 }

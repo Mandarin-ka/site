@@ -74,6 +74,11 @@ a{
     text-decoration: underline;
 }
 
+.self-introduction-block{
+    max-width: 100%;
+    width: fit-content;
+    margin: auto;
+}
 
 .personal-information{
     display: flex;
@@ -481,5 +486,17 @@ a{
 
     #experience{
         padding-bottom: 40px;
+    }
+
+    .nav-menu-ul{
+        min-width: 320px;
+        max-width: 320px;
+    }
+
+    .personal-information__ul{
+        margin: 0;
+        align-items: center;
+        margin-top: 20px;
+        max-width: 300px;
     }
 }
